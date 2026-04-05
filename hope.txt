@@ -1,1 +1,1 @@
-var x = "NodeJS";
+var x = "JavaScript";
